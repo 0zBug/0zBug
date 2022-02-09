@@ -12,7 +12,7 @@
 ![](https://img.shields.io/badge/-Lua-0d1117?style=flat&logo=lua)
 ![](https://img.shields.io/badge/-C++-0d1117?style=flat&logo=cplusplus)
 ![](https://img.shields.io/badge/-Python-0d1117?style=flat&logo=python)
-![](https://img.shields.io/badge/-Octave%20/%20Matlab-0d1117?style=flat&logo=Octave)
+![](https://img.shields.io/badge/-Octave-0d1117?style=flat&logo=Octave)
 
 # Discord
 ![](https://discord.c99.nl/widget/theme-1/699092961308180511.png)
