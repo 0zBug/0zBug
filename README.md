@@ -11,7 +11,6 @@
 # Languages
 ![](https://img.shields.io/badge/-Lua-0d1117?style=flat&logo=lua)
 ![](https://img.shields.io/badge/-C++-0d1117?style=flat&logo=cplusplus)
-![](https://img.shields.io/badge/-p5js-0d1117?style=flat&logo=p5.js)
 ![](https://img.shields.io/badge/-JavaScript-0d1117?style=flat&logo=javascript)
 ![](https://img.shields.io/badge/-Python-0d1117?style=flat&logo=python)
 ![](https://img.shields.io/badge/-Octave-0d1117?style=flat&logo=Octave)
