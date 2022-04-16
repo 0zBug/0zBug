@@ -1,5 +1,5 @@
 
-![](https://raw.githubusercontent.com/0zBug/0zBug/main/snake.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/0zBug/0zBug/main/snake.svg#gh-light-mode-only)
 
 # Statistics
 ![](https://github-readme-stats.vercel.app/api?username=0zBug&show_icons=true&theme=dark&hide_border=true&title_color=FEFEFE&icon_color=55D24B&text_color=FEFEFE&bg_color=0,0E1117,0E1117)
