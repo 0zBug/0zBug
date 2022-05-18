@@ -12,4 +12,4 @@
 ![](https://skillicons.dev/icons?i=lua,py,cpp,html,css,js,octave)
 
 # Discord
-![](https://dcbadge.vercel.app/api/shield/699092961308180511)
+![](https://dcbadge.vercel.app/api/shield/699092961308180511?style=flat)
