@@ -9,7 +9,7 @@
 ![](https://komarev.com/ghpvc/?username=0zBug&color=39D353)
 
 # Languages
-](https://skillicons.dev/icons?i=lua,py,cpp,html,css,js,octave)
+![](https://skillicons.dev/icons?i=lua,py,cpp,html,css,js,octave)
 
 # Discord
 ![](https://dcbadge.vercel.app/api/shield/699092961308180511)
