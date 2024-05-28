@@ -7,10 +7,10 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=0zBug&layout=compact&theme=dark&hide_border=true&title_color=FEFEFE&icon_color=55D24B&text_color=FEFEFE&bg_color=0,0E1117,0E1117)
 
-![](https://komarev.com/ghpvc/?username=0zBug&color=39D353)
-
 # Languages
 ![](https://skillicons.dev/icons?i=lua,py,octave,cpp,html,css,js)
 
-# Discord
+# Social
 ![](https://dcbadge.vercel.app/api/shield/699092961308180511?style=flat)
+
+![](https://komarev.com/ghpvc/?username=0zBug&color=39D353)
