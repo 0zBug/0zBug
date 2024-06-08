@@ -21,4 +21,4 @@
 ![](https://komarev.com/ghpvc/?username=0zBug&color=39D353)
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: 100; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 100vw; opacity: 1.0; background: url('https://raw.github.com/twitter/twemoji/master/assets/svg/1f41b.svg');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: 100; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 100vw; opacity: 1.0; background: url('https://raw.github.com/0zBug/0zBug/main/1f41b.svg');]{x0000}$}
